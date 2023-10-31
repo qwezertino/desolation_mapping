@@ -2,9 +2,9 @@
   <Name>New CodeWalker Project</Name>
   <Version value="1" />
   <YmapFilenames>
-    <Item>scrapyard.ymap</Item>
-    <Item>lr_cs4_02_strm_9.ymap</Item>
     <Item>lr_cs4_02_long_4.ymap</Item>
+    <Item>lr_cs4_02_strm_9.ymap</Item>
+    <Item>scrapyard.ymap</Item>
   </YmapFilenames>
   <YtypFilenames />
   <YbnFilenames />
